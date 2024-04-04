@@ -1,4 +1,4 @@
-Weather Application
+<br>Weather Application
 
 Description
 The Weather Application is a Python-based web app that provides weather forecasts for different locations. 
