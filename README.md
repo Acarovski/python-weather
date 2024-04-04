@@ -1,10 +1,10 @@
 **Weather Application**
 
-**Description**
+<div align="center">**Description**
 The Weather Application is a Python-based web app that provides weather forecasts for different locations. 
 It fetches data from an external weather API and displays it in a user-friendly interface.
 
-**Features**\n
+**Features**
 Current Weather: Get real-time weather information for a specific location.
 
 **Usage**
