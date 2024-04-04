@@ -28,5 +28,9 @@
   
 <p>This project is licensed under the MIT License - see the LICENSE file for details.<p>
 
-<p>Feel free to customize this template to match your specific project. Include relevant screenshots,<p>
-<p>additional sections, and any other information you think is important. Good luck with your Weather Application! 🌦️<p>
+<p>
+  Feel free to customize this template to match your specific project. Include relevant screenshots,
+  <p>
+<p>
+  additional sections, and any other information you think is important. Good luck with your Weather Application! 🌦️
+  <p>
