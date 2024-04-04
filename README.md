@@ -24,7 +24,7 @@
 **Contributing**
 <p>Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.<p>
 
-<p>**License**<p>
+**License**
   
 <p>This project is licensed under the MIT License - see the LICENSE file for details.<p>
 
